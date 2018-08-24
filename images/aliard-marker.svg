@@ -1,0 +1,29 @@
+<svg width="87" height="109" viewBox="0 0 87 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-443 -127)">
+<g id="Group">
+<g id="Group" filter="url(#filter0_f)">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(451 135)"/>
+</g>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(451 135)" fill="url(#paint1_linear)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f" filterUnits="userSpaceOnUse" x="443" y="127" width="87" height="109" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3.606" result="effect1_foregroundBlur"/>
+</filter>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 -92.993 70.985 0 -35.4925 92.993)">
+<stop offset="0" stop-color="#FB872B"/>
+<stop offset="1" stop-color="#D9E021"/>
+</linearGradient>
+<path id="path0_fill" fill-rule="evenodd" d="M 35.494 92.993C 38.222 92.993 40.789 91.707 42.401 89.53C 52.724 75.597 70.985 48.997 70.985 35.094C 70.985 15.711 55.095 4.673e-08 35.494 4.673e-08C 15.887 4.673e-08 2.28882e-07 15.711 2.28882e-07 35.094C 2.28882e-07 48.994 18.256 75.597 28.581 89.53C 30.199 91.707 32.766 92.993 35.494 92.993ZM 20.727 34.402C 20.727 26.341 27.336 19.807 35.491 19.807C 43.644 19.807 50.252 26.341 50.252 34.402C 50.252 42.462 43.644 48.997 35.491 48.997C 27.336 48.999 20.727 42.465 20.727 34.402Z"/>
+<path id="path1_fill" d="M 35.494 92.993C 38.222 92.993 40.789 91.707 42.401 89.53C 52.724 75.597 70.985 48.997 70.985 35.094C 70.985 15.711 55.095 4.673e-08 35.494 4.673e-08C 15.887 4.673e-08 2.28882e-07 15.711 2.28882e-07 35.094C 2.28882e-07 48.994 18.256 75.597 28.581 89.53C 30.199 91.707 32.766 92.993 35.494 92.993ZM 20.727 34.402C 20.727 26.341 27.336 19.807 35.491 19.807C 43.644 19.807 50.252 26.341 50.252 34.402C 50.252 42.462 43.644 48.997 35.491 48.997C 27.336 48.999 20.727 42.465 20.727 34.402Z"/>
+</defs>
+</svg>
